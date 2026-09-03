@@ -58,6 +58,9 @@ public class TaschenrechnerTest {
 	        zahl2 = myScanner.nextDouble();
 			System.out.println(zahl1 + " / " + zahl2 + " = " + ts.div(zahl1, zahl2));
 			break;
+		case '5':
+			System.exit(0);
+			break;
 		default:
 			System.out.println("Invalid selection");
 			break; // This break is not really necessary
