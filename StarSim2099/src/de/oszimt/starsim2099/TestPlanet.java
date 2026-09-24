@@ -6,7 +6,7 @@ public class TestPlanet {
 		double posX = (double)(Math.random() * 160);
 		double posY = (double)(Math.random() * 50);
 		int anzahlHafen = 3;
-		String name = "Max Musterpilot";
+		String name = "Abu Yousef";
 		
 		Planet meinPlanet = new Planet();
 		meinPlanet.setAnzahlHafen(anzahlHafen);

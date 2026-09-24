@@ -47,7 +47,6 @@ public class Main {
 		meinCentaurus.setPosY(Math.random() * universumHoehe);
 		meinGame.addPlanet(meinCentaurus);
 
-
 		//// Ladungen hinzufügen
 		// Pamps (grün)
 		Ladung meinePampsGruen = new Ladung();
