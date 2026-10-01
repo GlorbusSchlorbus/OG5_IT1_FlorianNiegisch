@@ -12,11 +12,6 @@ public class TestKickers {
 	
 	Trainer Glob = new Trainer("Glob", 7654321, false, 'B', 400);
 	
-	System.out.println(Bob);
-	System.out.println(Flob);
-	System.out.println(Blob);
-	System.out.println(Glob);
-	
 	}
 	
 }
