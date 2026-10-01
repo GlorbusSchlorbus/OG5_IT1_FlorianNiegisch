@@ -1,11 +1,11 @@
 
 package osz_kickers;
 
-public class Schiedrichter extends Personen {
+public class Schiedsrichter extends Personen {
 	
 	int gepfiffenespiel;
 
-	public Schiedrichter(String name, int telefonnummer, boolean jahresbeitragbezahlt, int gepfiffenespiel) {
+	public Schiedsrichter(String name, int telefonnummer, boolean jahresbeitragbezahlt, int gepfiffenespiel) {
 		super(name, telefonnummer, jahresbeitragbezahlt);
 		this.gepfiffenespiel = gepfiffenespiel;
 	}
